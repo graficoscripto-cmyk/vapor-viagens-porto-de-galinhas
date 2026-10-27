@@ -1,0 +1,45 @@
+# Vapor Viagens — Transfer Executivo & Passeios Turísticos (Porto de Galinhas, PE)
+
+> Agência de turismo receptivo e transporte executivo 24 horas sediada em Porto de Galinhas (Ipojuca, PE), liderada por Anderson e equipe. Nota 5,0 de 5,0 estrelas com 77 avaliações verificadas no Google Maps.
+
+## Identidade e Contato Oficial
+- **Razão / Nome no Google Maps**: Agência de turismo Vapor Viagens transfer e passeios turísticos
+- **Responsável / Anfitrião**: Anderson (citado diretamente nas avaliações do Google Maps pela pontualidade, simpatia, direção segura e veículos impecáveis)
+- **Endereço**: R. Boa Esperança - Porto de Galinhas, Ipojuca - PE, CEP 55590-000, Brasil
+- **Plus Code**: FXXV+F9 Porto de Galinhas, Ipojuca - PE
+- **Coordenadas Geográficas**: -8.5013021, -35.0065787
+- **Horário de Funcionamento**: Aberto 24 horas (atendimento a voos diurnos, noturnos e da madrugada no Aeroporto do Recife)
+- **Telefone / WhatsApp Direto**: +55 (81) 98305-7020 (`https://wa.me/5581983057020`)
+- **Instagram Oficial**: `@vaporviagens` (`https://www.instagram.com/vaporviagens/`)
+- **Google Maps**: `https://www.google.com/maps/place/?q=place_id:ChIJ_5agNI8XqwcRi0MY2mKWvIo`
+- **Website Oficial**: `https://vapor-viagens-porto-de-galinhas.vercel.app/`
+
+## Diferenciais da Frota e Atendimento
+- **Cobertura em 4 Estados do Nordeste**: Pernambuco (PE), Alagoas (AL), Paraíba (PB) e Rio Grande do Norte (RN).
+- **Transporte Executivo Privativo**: Veículos de 04 e 05 lugares (sedãs executivos e SUVs como Renault Duster) e opções sob medida para famílias e grupos maiores.
+- **Conforto a Bordo**: Ar-condicionado digital, caixa térmica à disposição, carregador de celular, som Bluetooth e cadeirinha infantil sob agendamento.
+- **Formas de Pagamento**: Pix, cartões de débito e cartões de crédito.
+- **Sem Fila e Sem Espera**: Motorista aguarda no desembarque do Aeroporto Internacional do Recife/Guararapes (REC) monitorando o horário do voo.
+
+## Principais Serviços
+
+### 1. Transfers Executivos (Aeroporto REC ↔ Hotéis, Resorts e Praias)
+- Aeroporto de Recife (REC) ↔ Porto de Galinhas, Muro Alto, Cupe e Maracaípe (PE)
+- Aeroporto de Recife (REC) ↔ Praia dos Carneiros / Tamandaré (PE)
+- Aeroporto de Recife (REC) ↔ Cabo de Santo Agostinho / Reserva do Paiva (PE)
+- Aeroporto de Recife (REC) ↔ Maragogi, Japaratinga e São Miguel dos Milagres (AL)
+- Aeroporto de Recife (REC) ↔ Maceió (AL), João Pessoa (PB) e Pipa / Natal (RN)
+- Transfers intermunicipais entre resorts (ex.: Porto de Galinhas ↔ Maragogi / Carneiros)
+
+### 2. Passeios Turísticos e Experiências Privativas
+- **Passeio de Buggy Ponta a Ponta (Porto de Galinhas)**: Muro Alto, Praia do Cupe, Vila de Porto de Galinhas e Pontal de Maracaípe (opções de 2h, 4h, 6h ou Super Diária de 9h com bugueiros credenciados).
+- **Mergulho nas Piscinas Naturais + Jangada**: Travessia de jangada aos arrecifes de corais em Porto de Galinhas, com opções de mergulho livre ou com cilindro e registros fotográficos subaquáticos.
+- **Day Use & Passeios em Praia dos Carneiros (PE)**: Transfer privativo, passeio de lancha ou catamarã, Igrejinha de São Benedito, bancos de areia, banhos de argila e passeio de Jet Ski com filmagem de drone.
+- **Caribe Brasileiro (Maragogi, Japaratinga e São Miguel dos Milagres - AL)**: Bate-volta executivo às galés e piscinas naturais de Alagoas, Rota Ecológica e Praia do Patacho.
+- **Ilha de Santo Aleixo e Praia de Calhetas (PE)**: Travessia de lancha para ilha vulcânica de águas cristalinas ou roteiro pelas enseadas históricas do Cabo de Santo Agostinho.
+- **City Tour Histórico Recife & Olinda (PE)**: Praia de Boa Viagem, Recife Antigo, Marco Zero, Rua do Bom Jesus, Embaixada dos Bonecos Gigantes, Paço do Frevo e Sítio Histórico do Alto da Sé em Olinda.
+- **City Tour João Pessoa (PB) & Pipa / Genipabu (RN)**: Roteiros personalizados pelo litoral da Paraíba e Rio Grande do Norte, incluindo Pôr do Sol na Praia do Jacaré.
+- **Voo Panorâmico de Helicóptero**: Sobrevoo exclusivo pelos recifes de Porto de Galinhas e Muro Alto.
+
+## Como Agendar
+As reservas e cotações personalizadas são feitas diretamente pelo simulador no site oficial (`https://vapor-viagens-porto-de-galinhas.vercel.app/#simulador`) ou via WhatsApp em `+55 81 98305-7020`, informando data, origem/destino ou passeio desejado e número de passageiros.

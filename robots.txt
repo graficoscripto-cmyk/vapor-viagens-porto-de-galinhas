@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vapor-viagens-porto-de-galinhas.vercel.app/sitemap.xml
