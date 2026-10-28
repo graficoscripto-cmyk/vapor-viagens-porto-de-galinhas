@@ -14,6 +14,9 @@
 - **Google Maps**: `https://www.google.com/maps/place/?q=place_id:ChIJ_5agNI8XqwcRi0MY2mKWvIo`
 - **Website Oficial**: `https://vapor-viagens-porto-de-galinhas.vercel.app/`
 
+## Destinos atendidos (transfer e passeios)
+Porto de Galinhas, Praia dos Carneiros (Tamandaré), Maragogi, São José da Coroa Grande (PE), Maceió, Natal, João Pessoa e Pipa.
+
 ## Diferenciais da Frota e Atendimento
 - **Cobertura em 4 Estados do Nordeste**: Pernambuco (PE), Alagoas (AL), Paraíba (PB) e Rio Grande do Norte (RN).
 - **Transporte Executivo Privativo**: Veículos de 04 e 05 lugares (sedãs executivos e SUVs como Renault Duster) e opções sob medida para famílias e grupos maiores.
